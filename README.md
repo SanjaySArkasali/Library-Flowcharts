@@ -10,3 +10,6 @@
 
 - ### Data Collection
 ![Blank diagram (3)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/4a8f9af1-71b8-41dd-87cb-2eb74b2cd2de)
+
+- ### Biases
+![Blank diagram (4)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/1060b3ae-5c69-4d45-9c36-1b322841c773)
