@@ -13,3 +13,6 @@
 
 - ### Biases
 ![Blank diagram (4)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/1060b3ae-5c69-4d45-9c36-1b322841c773)
+
+- ### Data Cleaning
+![Blank diagram (5)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/db038327-a847-4cb8-a282-d7cfbbfced82)
