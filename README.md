@@ -16,3 +16,8 @@
 
 - ### Data Cleaning
 ![Blank diagram (5)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/db038327-a847-4cb8-a282-d7cfbbfced82)
+
+## Machine Learning
+
+-### Data Encoding
+![Blank diagram (6)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/da101641-d7c8-4fda-87db-9a0af14e891a)
