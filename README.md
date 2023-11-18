@@ -19,5 +19,5 @@
 
 ## Machine Learning
 
--### Data Encoding
+- ### Data Encoding
 ![Blank diagram (6)](https://github.com/SanjaySArkasali/Library-Flowcharts/assets/121194268/da101641-d7c8-4fda-87db-9a0af14e891a)
